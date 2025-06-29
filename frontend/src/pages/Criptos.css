@@ -1,0 +1,45 @@
+/* src/Criptos.css */
+
+/* Modo Claro */
+.app-container.light table {
+  background-color: white;
+  color: black;
+}
+
+.app-container.light th, .app-container.light td {
+  border: 1px solid #ddd;
+}
+
+.app-container.light button {
+  background-color: #f5f5f5;
+  color: black;
+}
+
+.app-container.light h1 {
+  color: #000;
+}
+
+/* Modo Oscuro */
+.app-container.dark table {
+  background-color: #333;
+  color: white;
+}
+
+.app-container.dark th, .app-container.dark td {
+  border: 1px solid #555;
+}
+
+.app-container.dark button {
+  background-color: #333;
+  color: white;
+}
+
+.app-container.dark h1 {
+  color: #f5f5f5;
+}
+
+button {
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
