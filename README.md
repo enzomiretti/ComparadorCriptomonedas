@@ -2,7 +2,8 @@
 
 Comparador de Criptomonedas es una aplicación web que permite consultar, visualizar y comparar precios de distintas criptomonedas en tiempo real.
 
-Proyecto Full Stack: Backend Django + Frontend React.
+Proyecto Full Stack: Backend Django + Frontend React.  
+Consume datos desde una API pública de criptomonedas.
 
 ---
 
@@ -14,6 +15,7 @@ La plataforma permite:
 ✅ Consultar detalles de cada criptomoneda  
 ✅ Visualizar gráficas interactivas de precios  
 ✅ Filtrar y buscar criptomonedas  
+✅ Consumir información de una API externa de criptomonedas  
 
 ---
 
@@ -156,9 +158,3 @@ http://localhost:3000
 ## 📄 Licencia
 
 Uso académico y personal.
-
----
-
-## 🙌 Créditos
-
-Desarrollado por tu equipo o tu nombre.
